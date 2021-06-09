@@ -18,4 +18,4 @@
 - 新座標系統為物體放置在 camera 的 -z 方向所建立的
 - x, y, z : 新座標系統用原座標系統的 vector 表示
 #### Clipping
-- 
+- 做完 mapping 和 clipping 後的結果，若任一軸座標超出 [-1, 1]，
