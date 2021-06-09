@@ -4,6 +4,7 @@
 - [影片說明](https://drive.google.com/file/d/1ExJtAxCEp5sSxON9lHWXPQqKqAUuhhxm/view)
 
 ## UI
+- 使用 PyQt5 實現
 ### Input
 #### Camera
 - camera 座標 : x, y, z
